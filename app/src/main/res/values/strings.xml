@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">UROVOScanner</string>
+    <string name="app_name">SampleBarcodeReader</string>
+    <string name="barcode">Barcode</string>
 </resources>

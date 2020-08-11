@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "UROVOScanner"
+rootProject.name = "SampleBarcodeReader"
