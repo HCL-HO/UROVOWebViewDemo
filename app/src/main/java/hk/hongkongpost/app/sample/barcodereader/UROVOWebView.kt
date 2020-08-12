@@ -1,4 +1,4 @@
-package gov.hkpost.urovo
+package hk.hongkongpost.app.sample.barcodereader
 
 import android.annotation.SuppressLint
 import android.webkit.WebView
